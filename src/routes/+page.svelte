@@ -9,7 +9,7 @@
 </svelte:head>
 
 <main>
-	<h1>m02uku</h1>
+	<!-- <h1>m02uku</h1> -->
 
 	<a href="{base}/posts/CV">CV</a>
 
